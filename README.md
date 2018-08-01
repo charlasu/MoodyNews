@@ -13,4 +13,6 @@ In an era where the U.S. President's tweets are considered news-worthy and his c
 
 ![Compound Scores](/2_NewsTweets_Compound_Sentiment_Scores.png)
 
-![Overall Sentiment, Charted][/3_NewsTweets_Bar_Chart.png)
+![Overall Sentiment, Charted](/3_NewsTweets_Bar_Chart.png)
+
+
