@@ -1,4 +1,5 @@
 # Moody News 
+![News Sources](/News_Orgs.jpg)
 Sentiment analysis of the most recent 100 tweets per major news organization.
 
 In an era where the U.S. President's tweets are considered news-worthy and his condemning of the news as "an enemy of the people," it seemed interesting to do a sentiment analysis on the 100 recent (1 Aug 2018) tweets of major North American news organizations. In general, news is rarely positive--since rescuing a cat out of a tree is hardly considered the new of news that the public needs to know about. Yet, here are a few observations:
